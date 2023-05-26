@@ -54,3 +54,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #   define RGBLIGHT_LIMIT_VAL 120
 #endif
 
+#define MASTER_RIGHT
